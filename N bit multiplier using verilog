@@ -1,4 +1,4 @@
-	);
+module multiplier(out,a_in,b_in,clk,start,reset,finish,bcd);
 	
 parameter N = 8;
 
